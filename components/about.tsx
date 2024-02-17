@@ -32,7 +32,8 @@ export default function About() {
           React, NodeJs, ExpressJs, and MySQL
         </span>
         . I am also exploring modern stack like TypeScript and NextJs. I am always looking to
-        learn new technologies and work as a team. I am currently seeking oppurtunities for a <span className="font-bold">front end developer. </span>
+        learn new technologies and work as a team. <br />
+        I am currently seeking oppurtunities for <span className="font-bold">Frontend Developer. </span>
       </p>
 
     
