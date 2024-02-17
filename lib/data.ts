@@ -5,7 +5,7 @@ import { LuGraduationCap } from "react-icons/lu";
 import corpcommentImg from "@/public/corpcomment.png";
 import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
-import mekdiwebsite from "@/public/mekdiwebsite.png"
+import mekdiwebsite from "@/public/mekdiwebsite1.png"
 import rainswebsite from "@/public/rainswebsite1.png"
 import mytixwebsite from "@/public/mytixwebsite1.png"
 
@@ -67,7 +67,7 @@ export const projectsData = [
     site: "https://rains.anggaratriputra.my.id",
   },
   {
-    title: "MEKDI Point-of-Sale (POS) Management ",
+    title: "Mekdi Point-of-Sale (POS) Management ",
     description:
       "Worked on developing administrative functionalities, menu lists for cashiers and process of transaction in the POS application.",
     tags: ["React", "ExpressJs", "MySQL", "NodeJS", "Redux", "Sequelize", "Chakra UI"],
@@ -76,7 +76,7 @@ export const projectsData = [
     site: "https://mekdi.anggaratriputra.my.id",
   },
   {
-    title: "MYTIX Event / Ticketing Management",
+    title: "myTix Event / Ticketing Management",
     description:
       "Developing a front end project, worked on ticket selection process and transaction process.",
     tags: ["React", "JSON", "Chakra UI", "Redux"],
@@ -105,6 +105,5 @@ export const skillsData = [
   "Object Relational Mapping",
   "Canva",
   "Figma",
-  "Adobe Photoshop",
 
 ] as const;

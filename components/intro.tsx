@@ -53,7 +53,7 @@ export default function Intro() {
       <motion.h1 className="mb-10 mt-4 px-4 text-xl font-light !leading-[1.5] sm:text-2xl"
       initial={{ opacity: 0, y: 100 }}
       animate={{ opacity: 1, y: 0 }}>
-       <span className="font-semibold">Hello, I'm Anggara. </span> I'm a {" "}
+       Hello, I'm <span className="font-semibold">Anggara. </span> I'm a {" "}
        <span className="font-semibold">Frontend Developer </span> with a {" "}
        <span className="font-semibold">Bachelor's degree in Informatics Engineering </span>
        and a proud alumni of {" "} 
