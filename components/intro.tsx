@@ -41,12 +41,13 @@ export default function Intro() {
       initial={{ opacity: 0, y: 100 }}
       animate={{ opacity: 1, y: 0 }}>
        Hello, I'm <span className="font-semibold">Anggara. </span> I'm a {" "}
-       <span className="font-semibold">Frontend Developer </span> with a {" "}
+       <span className="font-semibold">Frontend Developer / Fullstack Developer </span> with a {" "}
        <span className="font-semibold">Bachelor's degree in Informatics Engineering </span>
        and a proud alumni of {" "} 
        <span className="font-semibold">Purwadhika Digital Technology School Fullstack Web Development. </span>
+    
        Proficient in {" "}
-       <span className="font-semibold">ReactJS</span> and <span className="font-semibold">JavaScript</span>, currently exploring <span className="font-semibold">Next.js</span> and <span className="font-bold">TypeScript.</span>
+       <span className="font-semibold">MERN (MySQL, ExpressJS, ReactJS, NodeJS) </span> Stack Web Development.
        <br/>
        <br/>
        

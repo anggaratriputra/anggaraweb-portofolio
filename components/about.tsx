@@ -22,18 +22,16 @@ export default function About() {
       <p className="mb-3 font-light">
         After graduating with a degree in{" "}
         <span className="font-medium">Informatics Engineering</span>, I decided to pursue my
-        passion for programming. I enrolled in a Purwadhika Digital Technology School bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        My favorite part of programming is the
-        problem-solving aspect. I love the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
-        <span className="font-medium">
-          React, NodeJs, ExpressJs, and MySQL
+        passion for programming. I enrolled in a Purwadhika Digital Technology School Fullstack Web Development and awarded best student at my batch.
+        I excelled in various aspects, including project completion ahead of schedule, consistently high performance in assessments, and receiving commendation for teamwork and leadership.
+        
+        <br/>
+        My core stack
+        is <span className="font-medium">
+          React, NodeJs, ExpressJs, and MySQL.
         </span>
-        . I am also exploring modern stack like TypeScript and NextJs. I am always looking to
-        learn new technologies and work as a team. <br />
-        I am currently seeking oppurtunities for <span className="font-bold">Frontend Developer. </span>
+        <br/>
+        I am currently seeking oppurtunities for <span className="font-bold">Frontend Developer or Fullstack Developer. </span>
       </p>
 
     
